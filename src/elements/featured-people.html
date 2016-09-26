@@ -99,13 +99,8 @@
               src="[[person.photoUrl]]"
               sizing="cover"
             ></iron-image>
-            <iron-image
-              class="company-logo"
-              src="[[person.companyLogo]]"
-              sizing="contain"
-            ></iron-image>
             <h4 class="name">[[person.name]]</h4>
-            <span class="company">[[person.country]]</span>
+            <span class="company">[[person.title]]</span>
           </a>
         </template>
       </div>
@@ -113,6 +108,9 @@
         <a href="/speakers" class="block-link">
           <paper-button>[[localize('featured-people-view-all')]]</paper-button>
         </a>
+      </div>
+      <div>
+        <span class="name">[[localize('featured-people-cta')]]</span>
       </div>
     </div>
 

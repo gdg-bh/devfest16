@@ -179,24 +179,18 @@
       }
     ]
   },
-  "teamPageTitle": "team-page-title",
-  "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 400,
       "caption": "attendees"
-    },
-    {
-      "counter": 2,
-      "caption": "days"
-    },
-    {
-      "counter": 30,
-      "caption": "sessions"
     },
     {
       "counter": 3,
       "caption": "tracks"
+    },
+    {
+      "counter": "+20",
+      "caption": "sessions"
     }
   ],
   "hashtag": "dfua",
