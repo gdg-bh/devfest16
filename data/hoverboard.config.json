@@ -229,5 +229,27 @@
   "callToAction": {
     "videoTitle": "action-title",
     "videoId": "DfMnJAzOFng"
-  }
+  },
+  "spaces": [
+    {
+      "title": "Trilha Principal",
+      "description": "Referências nas melhores tecnologias Google.",
+      "photoURL": "/images/space-icon.png"
+    },
+    {
+      "title": "Trilha da Comunidade",
+      "description": "Para descobrir novas referências e dar espaço para todos os assuntos.",
+      "photoURL": "/images/space-icon.png"
+    },
+    {
+      "title": "Espaço Codelabs",
+      "description": "Aproveite o tempo para treinar e aprender mais sobre as tecnologias com vários mentores e conteúdo de primeira qualidade.",
+      "photoURL": "/images/space-icon.png"
+    },
+    {
+      "title": "Espaço Estandes",
+      "description": "Saiba mais sobre as nossas comunidades e empresas que fazem parte do nosso ecossistema.",
+      "photoURL": "/images/space-icon.png"
+    }
+  ]
 }
