@@ -26,11 +26,7 @@
         overflow: hidden;
         min-height: 300px;
         --paper-item-disabled-color: var(--primary-text-color);
-      }
-
-      google-map,
-      .disable-map-events {
-        @apply(--layout-fit);
+        background-image: url("../../images/backgrounds/location_bg.jpg");
       }
 
       .container {
@@ -114,23 +110,6 @@
       }
     </style>
 
-    <template is="dom-if" if="[[selected]]">
-      <google-map
-        zoom="[[app.data.location.pointer.zoom]]"
-        latitude="[[app.data.location.mapCenter.latitude]]"
-        longitude="[[app.data.location.mapCenter.longitude]]"
-        api-key="[[app.data.location.apiKey]]"
-        styles="[[options]]"
-        disable-zoom disable-default-ui
-      >
-        <google-map-marker
-          latitude="[[app.data.location.pointer.latitude]]"
-          longitude="[[app.data.location.pointer.longitude]]"
-        ></google-map-marker>
-      </google-map>
-    </template>
-    >
-    <div class="disable-map-events"></div>
     <div class="container">
       <div class="additional-space"></div>
       <div class="card-wrapper">
@@ -152,15 +131,6 @@
                   <div secondary>[[localize('location-address-short')]]</div>
                 </paper-item-body>
               </paper-icon-item>
-            </div>
-            <div class="card-actions">
-              <a class="bottom-link"
-                 href$="https://www.google.com/maps/dir/[[app.data.location.pointer.latitude]],[[app.data.location.pointer.longitude]]/@[[app.data.location.pointer.latitude]],[[app.data.location.pointer.longitude]],18z"
-                 target="_blank"
-                 rel="noopener noreferrer"
-              >
-                <paper-icon-button icon="icons:directions"></paper-icon-button>
-              </a>
             </div>
           </div>
         </paper-card>

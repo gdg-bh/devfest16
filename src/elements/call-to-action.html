@@ -13,8 +13,9 @@
     <style include="shared-styles">
       :host {
         display: block;
-        background: var(--default-primary-color);
+        background: var(--default-primary-color) url("../../images/backgrounds/cta.png");
         color: var(--text-primary-color);
+        min-height: 490px;
       }
 
       .container {
@@ -46,8 +47,6 @@
     </style>
 
     <div class="container container-narrow">
-      <h4 class="heading">[[localize(app.data.callToAction.videoTitle)]]</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo">[[localize('action')]]</paper-button>
     </div>
 
   </template>

@@ -59,10 +59,6 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "url": "https://hoverboard.firebaseapp.com/",
@@ -228,22 +224,8 @@
   "location": {
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
-    "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
-    },
-    "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
-    },
-    "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
-    ]
+    "images": [ "/images/backgrounds/location_card.jpg" ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "callToAction": {
     "videoTitle": "action-title",
     "videoId": "DfMnJAzOFng"

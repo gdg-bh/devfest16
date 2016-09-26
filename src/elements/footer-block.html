@@ -160,12 +160,7 @@
 
     <div class="container">
       <div class="footer-content">
-        <iron-image
-          class="gdg-logo"
-          src="/images/gdg-logo.svg"
-          sizing="contain"
-          alt="[[app.data.organizer.name]]"
-        ></iron-image>
+        <div class="link-block-title">Vem com a gente</div>
         <paper-button class="footer-backtotop" on-tap="scrollToTop" noink>
           [[localize('back-to-top')]]
           <iron-icon icon="icons:expand-less"></iron-icon>
@@ -203,13 +198,12 @@
             </div>
           </div>
           <div class="subscribe">
-            <div class="link-block-title">[[localize('subscribe')]]</div>
-            <span>[[localize('subscribe-note')]]</span>
-            <mailchimp-subscribe
-              app="[[app]]"
-              url="[[app.data.mailchimp.url]]"
-              name="[[app.data.mailchimp.name]]"
-            ></mailchimp-subscribe>
+            <iron-image
+              class="gdg-logo"
+              src="/images/gdg-logo.svg"
+              sizing="contain"
+              alt="[[app.data.organizer.name]]"
+            ></iron-image>
           </div>
         </nav>
       </div>
