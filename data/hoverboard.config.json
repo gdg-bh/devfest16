@@ -6,11 +6,6 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -18,6 +13,7 @@
     "blog": {
       "headerSettings": {
         "backgroundColor": "#03a9f4",
+        "backgroundImage": "/images/backgrounds/blog.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -25,6 +21,7 @@
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/speakers.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -32,13 +29,7 @@
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/schedule.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -46,6 +37,7 @@
     "cod": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/cod.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -152,29 +144,35 @@
     "url": "http://2event.com/events/630032",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
+        "name": "super-early-bird",
+        "price": 70,
+        "currency": "R$",
+        "starts": "super-early-bird-starts",
+        "ends": "super-early-bird-ends",
         "soldOut": true
       },
       {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
+        "name": "lote-1",
+        "price": 90,
+        "currency": "R$",
+        "starts": "lote-1-starts",
+        "ends": "lote-1-ends",
+        "soldOut": true
+      },
+      {
+        "name": "lote-2",
+        "price": 110,
+        "currency": "R$",
+        "starts": "lote-2-starts",
+        "ends": "lote-2-ends",
+        "soldOut": false
+      },
+      {
+        "name": "lote-3",
+        "price": 130,
+        "currency": "R$",
+        "starts": "lote-3-starts",
+        "ends": "lote-3-ends",
         "soldOut": false
       }
     ]

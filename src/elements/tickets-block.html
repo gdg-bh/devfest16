@@ -69,6 +69,7 @@
       <div class="block-header">
         <h4 class="heading">[[localize('tickets-title')]]</h4>
       </div>
+      <div class="details">[[localize('tickets-details')]]</div>
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.data.tickets.elements]]" as="ticket">
           <ticket-element
@@ -83,7 +84,6 @@
           ></ticket-element>
         </template>
       </div>
-      <div class="details">[[localize('tickets-details')]]</div>
       <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
       </a>
