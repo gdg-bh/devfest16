@@ -2,7 +2,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#353636",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
@@ -12,7 +12,7 @@
     },
     "blog": {
       "headerSettings": {
-        "backgroundColor": "#03a9f4",
+        "backgroundColor": "#da353d",
         "backgroundImage": "/images/backgrounds/blog.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -20,7 +20,7 @@
     },
     "speakers": {
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#e2bb3b",
         "backgroundImage": "/images/backgrounds/speakers.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -28,7 +28,7 @@
     },
     "schedule": {
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#6695c9",
         "backgroundImage": "/images/backgrounds/schedule.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -36,7 +36,7 @@
     },
     "cod": {
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#058e4b",
         "backgroundImage": "/images/backgrounds/cod.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -61,31 +61,23 @@
       "permalink": "/speakers/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
+  "url": "https://devfestbh.com.br/",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
-      "name": "English",
-      "key": "en"
+      "name": "Português (Brasil)",
+      "key": "pt_BR"
     },
     {
-      "name": "Українська",
-      "key": "uk"
+      "name": "English",
+      "key": "en"
     }
   ],
   "footerBlocks": [
     {
       "title": "for-visitors",
       "links": [
-        {
-          "text": "team",
-          "url": "/team/"
-        },
         {
           "text": "cod",
           "url": "/cod/"
@@ -96,18 +88,13 @@
           "newTab": true
         },
         {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "gdg-bh",
+          "url": "http://gdgbh.org/",
           "newTab": true
         },
         {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "gdg-lavras",
+          "url": "http://www.meetup.com/pt-BR/gdglavras/",
           "newTab": true
         }
       ]
@@ -117,12 +104,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "https://docs.google.com/document/d/1ps4NjiufsFiX9PisiV4YDwFzx71JUZ8WWXDMcVXYOWc/edit?usp=sharing",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://drive.google.com/file/d/0B30wiNPkIOmhdXpIcl9DMHhhZUNaRGRLZmozeTNPRVBkejdz/view?usp=sharing",
           "newTab": true
         }
       ]
@@ -131,13 +118,13 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdgbhz@gmail.com",
+        "url": "mailto:gdgbhz@gmail.com"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://www.sympla.com.br/gdg-devfest-belo-horizonte-16__81136",
     "elements": [
       {
         "name": "super-early-bird",
@@ -187,32 +174,31 @@
       "caption": "sessions"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "devfestbh16",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "gdg_bh",
+      "url": "https://twitter.com/gdg_bh"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GdgbhOrg",
+      "url": "https://plus.google.com/+GdgbhOrg"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDG Belo Horizonte",
+      "url": "https://www.facebook.com/gdgbh"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG BH",
+      "url": "https://www.linkedin.com/groups/4415174"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/b/115701636639101848032/events/gallery/ccp5drk4g42v0ftu9enguahengc",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -222,13 +208,8 @@
     }
   },
   "location": {
-    "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "http://www.ourominas.com.br/",
     "images": [ "/images/backgrounds/location_card.jpg" ]
-  },
-  "callToAction": {
-    "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
   },
   "spaces": [
     {
