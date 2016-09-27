@@ -130,33 +130,29 @@
         "name": "super-early-bird",
         "price": 70,
         "currency": "R$",
-        "starts": "super-early-bird-starts",
-        "ends": "super-early-bird-ends",
-        "soldOut": true
+        "selling": "super-early-bird-selling",
+        "colors": "expired"
       },
       {
         "name": "lote-1",
         "price": 90,
         "currency": "R$",
-        "starts": "lote-1-starts",
-        "ends": "lote-1-ends",
-        "soldOut": true
+        "selling": "lote-1-selling",
+        "colors": "expired"
       },
       {
         "name": "lote-2",
         "price": 110,
         "currency": "R$",
-        "starts": "lote-2-starts",
-        "ends": "lote-2-ends",
-        "soldOut": false
+        "selling": "lote-2-selling",
+        "colors": "lote2"
       },
       {
         "name": "lote-3",
         "price": 130,
         "currency": "R$",
-        "starts": "lote-3-starts",
-        "ends": "lote-3-ends",
-        "soldOut": false
+        "selling": "lote-3-selling",
+        "colors": "lote3"
       }
     ]
   },
