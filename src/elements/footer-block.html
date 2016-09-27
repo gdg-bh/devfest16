@@ -22,9 +22,8 @@
     <style include="shared-styles">
       :host {
         display: block;
-        background: var(--footer-background-color, #fcfcfc);
-        color: var(--footer-text-color, #757575);
-        border-top: 1px solid #eee;
+        background: #e8e8e8;
+        color: #5e5e5e;
         font-size: 14px;
         --paper-menu-button: {
           padding: 0;
@@ -40,8 +39,8 @@
 
       .gdg-logo {
         margin: 10px 10px 0 0;
-        height: 24px;
-        width: 120px;
+        width: auto;
+        height: 80px;
         display: block;
       }
 
@@ -61,7 +60,6 @@
       .footer-content {
         @apply(--layout-horizontal);
         @apply(--layout-justified);
-        padding-top: 16px;
       }
 
       .navigation {
@@ -69,9 +67,19 @@
         @apply(--layout-flex);
       }
 
+      .link-element-title {
+        margin: 50px;
+        font-size: 22px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #535151;
+      }
+
       .link-block-title {
         margin-bottom: 10px;
-        font-size: 18px;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase;
       }
 
       .link-block {
@@ -81,6 +89,7 @@
       .link-block li {
         margin-bottom: 9px;
         list-style-type: none;
+        line-height: normal;
       }
 
       .link-block-wrapper {
@@ -103,6 +112,11 @@
         padding: 16px 0;
       }
 
+      .fb-bottom {        
+        background: #cecece;
+        color: #a6a6a6;
+      }
+
       .subscribe {
         @apply(--layout-flex-auto);
       }
@@ -123,10 +137,6 @@
       @media (min-width: 601px) {
         .footer-backtotop {
           margin-bottom: 0;
-        }
-
-        .footer-content {
-          padding-top: 32px;
         }
 
         .navigation {
@@ -160,13 +170,7 @@
     </style>
 
     <div class="container">
-      <div class="footer-content">
-        <div class="link-block-title">Vem com a gente</div>
-        <paper-button class="footer-backtotop" on-tap="scrollToTop" noink>
-          [[localize('back-to-top')]]
-          <iron-icon icon="icons:expand-less"></iron-icon>
-        </paper-button>
-      </div>
+      <h4 class="link-element-title text-center">Vem com a gente</h4>
       <div class="footer-content footer-links-container">
         <nav class="navigation">
           <template is="dom-repeat" items="[[app.data.footerBlocks]]" as="block">
@@ -201,56 +205,62 @@
           <div class="subscribe">
             <iron-image
               class="gdg-logo"
-              src="/images/gdg-logo.svg"
+              src="/images/DevFestBH-textLogo.png"
               sizing="contain"
               alt="[[app.data.organizer.name]]"
             ></iron-image>
           </div>
         </nav>
       </div>
-      <div class="footer-content footer-bottom">
-        <!-- Please do NOT delete next block -->
-        <div class="copyright">
-          &copy; 2016 Based on <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Project
-          Hoverboard</a>. Designed and created by <a href="http://o.zasadnyy.com/" target="_blank" rel="noopener noreferrer">Oleh
-          Zasadnyy</a> &middot;
-          <a href="http://lviv.gdg.org.ua" target="_blank" rel="noopener noreferrer">GDG Lviv</a>
-        </div>
-        <div class="gplus">
-          <g:plusone
-            size="medium"
-            width="200"
-            annotation="inline"
-            href$="{{app.data.url}}"
-          ></g:plusone>
-        </div>
-
-        <template is="dom-if" if="[[_showLanguageToggle(app.data.languages)]]">
-          <paper-menu-button vertical-align="bottom" horizontal-align="left">
-            <paper-button class="dropdown-trigger">
-              <iron-icon class="language-icon" icon="language"></iron-icon>
-              [[selectedLanguage.label]]
-              <iron-icon icon="arrow-drop-down"></iron-icon>
-            </paper-button>
-            <paper-menu
-              class="dropdown-content"
-              selected="{{app.lang}}"
-              selected-item="{{selectedLanguage}}"
-              attr-for-selected="value"
-            >
-              <template is="dom-repeat" items="[[app.data.languages]]" as="lang">
-                <paper-item
-                  value="[[lang.key]]"
-                  label="[[lang.name]]"
-                >[[lang.name]]
-                </paper-item>
-              </template>
-            </paper-menu>
-          </paper-menu-button>
-        </template>
-      </div>
     </div>
+    <div class="fb-bottom">
+    <div class="container">
+    <div class="footer-content footer-bottom">
+      <!-- Please do NOT delete next block -->
+      <div class="copyright">
+        &copy; 2016 Designed by <a href="http://auroracomunicacao.com.br" target="_blank" rel="noopener noreferrer">Aurora Comunicação</a>. &middot;
+        <a href="http://gdgbh.org" target="_blank" rel="noopener noreferrer">GDG Belo Horizonte</a>
+        <br>
+        &copy; 2016 Based on <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Project
+        Hoverboard</a>. Designed and created by <a href="http://o.zasadnyy.com/" target="_blank" rel="noopener noreferrer">Oleh
+        Zasadnyy</a> &middot;
+        <a href="http://lviv.gdg.org.ua" target="_blank" rel="noopener noreferrer">GDG Lviv</a>
+      </div>
+      <div class="gplus">
+        <g:plusone
+          size="medium"
+          width="200"
+          annotation="inline"
+          href$="{{app.data.url}}"
+        ></g:plusone>
+      </div>
 
+      <template is="dom-if" if="[[_showLanguageToggle(app.data.languages)]]">
+        <paper-menu-button vertical-align="bottom" horizontal-align="left">
+          <paper-button class="dropdown-trigger">
+            <iron-icon class="language-icon" icon="language"></iron-icon>
+            [[selectedLanguage.label]]
+            <iron-icon icon="arrow-drop-down"></iron-icon>
+          </paper-button>
+          <paper-menu
+            class="dropdown-content"
+            selected="{{app.lang}}"
+            selected-item="{{selectedLanguage}}"
+            attr-for-selected="value"
+          >
+            <template is="dom-repeat" items="[[app.data.languages]]" as="lang">
+              <paper-item
+                value="[[lang.key]]"
+                label="[[lang.name]]"
+              >[[lang.name]]
+              </paper-item>
+            </template>
+          </paper-menu>
+        </paper-menu-button>
+      </template>
+    </div>
+    </div>
+    </div>
   </template>
 
   <script>
