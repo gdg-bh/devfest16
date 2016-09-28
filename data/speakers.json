@@ -64,27 +64,20 @@
         "id": 4,
         "featured": true,
         "name": "Daniela Andrade",
-        "title": "Software Engineer",
-        "company": "Google",
+        "title": "Analist Developer",
+        "company": "Thoughtworks",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Mountain View, United States",
         "photoUrl": "/images/people/daniela_andrade.jpg",
-        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "shortBio": "Daniela Andrade é uma mulher transexual, transfeminista, membro do GADVS - Grupo de Advogados pela Diversidade Sexual e de Gênero...",
+        "bio": "Daniela Andrade é uma mulher transexual, transfeminista, membro do GADVS - Grupo de Advogados pela Diversidade Sexual e de Gênero, atuando no movimento de mulheres, LGBT e travestis e transexuais. Formada em Letras e Análise de Sistemas com pós graduação em Língua Portuguesa e Literatura e Engenharia de Software.Atualmente é analista desenvolvedora na Thoughtworks.",
         "tags": [
-            "Cloud",
-            "Performance",
-            "TensorFlow"
+            "WTM"
         ],
         "badges": [
 
         ],
         "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
-            }
+            
         ]
     },
     "5": {

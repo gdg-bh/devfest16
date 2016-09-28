@@ -396,15 +396,15 @@
     },
     "105": {
         "id": 105,
-        "title": "Intro to TensorFlow",
-        "description": "TBD",
+        "title": "Diversidade em TI",
+        "description": "Analisando estruturalmente os motivos que levam à falta de diversidade na área de TI, observando a minha própria história como mulher transexual, faço um panorama dos diversos motores sociais que levam à exclusão e expulsão das minorias oprimidas dentro do setor, focando-se especificamente dentro do meu contexto e observação.",
         "speakers": [
             4
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "Portuguese",
+        "complexity": "Beginner",
         "tags": [
-            "Cloud"
+            "WTM"
         ]
     },
     "104": {
