@@ -77,7 +77,7 @@
 
         ],
         "socials": [
-            
+
         ]
     },
     "5": {
@@ -162,77 +162,40 @@
         "featured": true,
         "name": "Ana Paula Batista",
         "title": "Android Tech Lead",
-        "company": "IG",
+        "company": "App Prova",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Krakow, Poland",
-        "photoUrl": "/images/people/mateusz_herych.jpg",
-        "shortBio": "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
-        "bio": "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
+        "photoUrl": "/images/logos/gdg-bh.svg",
+        "shortBio": "A DEFINIR...",
+        "bio": "A DEFINIR...",
         "tags": [
-            "Android",
-            "Android",
-            "Design Patterns",
-            "Libraries"
+            "Ux"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/img/user/108555637824110226040.png"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Krakow",
-                "link": "https://developers.google.com/groups/directory/"
-            }
+
         ],
         "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+MateuszHerych"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/mherych"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/herych"
-            }
+
         ]
     },
     "9": {
         "id": 9,
         "featured": false,
         "name": "Bruno Scrok Brunoro",
-        "title": "Android Engineer",
-        "company": "SoftServe",
+        "title": "Developer Mobile",
+        "company": "Banco Maré",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Kyiv, Ukraine",
         "photoUrl": "/images/people/bruno_scrok.jpg",
-        "shortBio": "Ex Yandex emproyee. Android enthusiast.",
-        "bio": "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
+        "shortBio": "Desenvolvedor de Aplicativos Mobile e Front-end, Desenvolvedor no Banco Maré, Organizador do Google Developer Group Curitiba...",
+        "bio": "Desenvolvedor de Aplicativos Mobile e Front-end, Desenvolvedor no Banco Maré, Organizador do Google Developer Group Curitiba, baixista e não guitarra de 4 cordas, gosta de comer, e nos tempos vagos anda de Jipe mais louco que o Batman por Colombo/PR.",
         "tags": [
-            "Android",
-            "Dagger 2"
+            "Android Wear",
+            "Firebase"
         ],
         "badges": [
 
         ],
         "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100008474898785"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/dmayboroda"
-            }
+
         ]
     },
     "10": {
@@ -240,160 +203,70 @@
         "featured": false,
         "name": "Liliane",
         "title": "Front-End Engineer",
-        "company": "Brainly",
+        "company": "SEBRAE",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Krakow, Poland",
-        "photoUrl": "/images/people/konrad_dzwinel.jpg",
-        "shortBio": "Fighting for 60FPS on Web. GDE on Web Technologies. Co-organizer of GDG Krakow.",
-        "bio": "Konrad is a front-end developer at Brainly, Google Developer Expert for Web Technologies and co-organizer of Google Developers Group in Krakow. Over the years he worked for various startups, consultancies and software houses building websites, hybrid apps and internal tools. After work, he develops Chrome extensions, experiments with various front-end technologies, gives presentations and runs workshops.",
+        "photoUrl": "/images/logos/gdg-bh.svg",
+        "shortBio": "A DEFINIR...",
+        "bio": "A DEFINIR...",
         "tags": [
-            "Web",
-            "Chrome Extensions",
-            "Progressive Web Apps"
+            "Entrepreneurship"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Web Technologies Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/konrad-dzwinel.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Krakow",
-                "link": " https://developers.google.com/groups/directory/"
-            }
+
         ],
         "socials": [
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/kdzwinel"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/kdzwinel"
-            }
+
         ]
     },
     "11": {
         "id": 11,
         "featured": false,
         "name": "Minas Dev",
-        "title": "Founder",
+        "title": "Comunity Leader",
         "company": "Apeser",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Basel, Switzerland",
         "photoUrl": "/images/people/minas_dev.png",
-        "shortBio": "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
-        "bio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
+        "shortBio": "Palestra das comunidades de BH, a definir...",
+        "bio": "Palestra das comunidades de BH, a definir...",
         "tags": [
-            "Cloud",
-            "AppEngine",
-            "Microservices"
+            "Comunity"
         ],
         "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Basel",
-                "link": "https://developers.google.com/groups/chapter/104796338340371914914/"
-            }
+
         ],
         "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jbclion"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/JBaptisteClion"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JeanBaptisteClionBasel/posts"
-            }
+
         ]
     },
     "17": {
         "id": 17,
         "featured": false,
         "name": "Call 4 Paperz",
-        "title": "Co-Founder",
-        "company": "Juicymo",
+        "title": "Call 4 Paperz",
+        "company": "Call 4 Paperz",
         "companyLogo": "/images/logos/gdg-bh.svg",
         "photoUrl": "/images/logos/gdg-bh.svg",
         "shortBio": "A DEFINIR...",
         "bio": "A DEFINIR...",
         "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JanaMoudr\u00e1/posts"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/Janamou"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://cz.linkedin.com/in/janamoudra"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/Janamou"
-            }
+
         ]
     },
     "22": {
         "id": 22,
         "featured": false,
         "name": "Call 4 Paperz",
-        "title": "Deployment Engineer",
-        "company": "Mirantis",
+        "title": "Call 4 Paperz",
+        "company": "Call 4 Paperz",
         "companyLogo": "/images/logos/gdg-bh.svg",
         "photoUrl": "/images/logos/gdg-bh.svg",
         "shortBio": "A DEFINIR...",
         "bio": "A DEFINIR...",
-        "tags": [
-            "Cloud",
-            "OpenStack",
-            "Kubernetes",
-            "Docker"
-        ],
         "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Lviv",
-                "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
-            }
+
         ],
         "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/103000293055760527954"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://ua.linkedin.com/in/idvoretskyi"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/idvoretskyi"
-            }
+
         ]
     }
 }
