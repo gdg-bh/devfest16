@@ -368,15 +368,15 @@
     },
     "107": {
         "id": 107,
-        "title": "Introduction to Progressive Web Apps in Angular 2",
-        "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+        "title": "Começando com Machine Learning usando Produtos Google",
+        "description": "Um walkthrough de como utilizar produtos Google, como a Cloud Vision API e o TensorFlow, pra desenvolver Machine Learning based software.",
         "speakers": [
             6
         ],
-        "language": "English",
+        "language": "Portuguese",
         "complexity": "Beginner",
         "tags": [
-            "Web"
+            "Machine Learning"
         ]
     },
     "106": {
@@ -429,19 +429,6 @@
         "complexity": "Intermediate",
         "tags": [
             "Android"
-        ]
-    },
-    "102": {
-        "id": 102,
-        "title": "Hands-on gRPC experience building your own multiplayer game client",
-        "description": "Do you remember the game Simon says from the 80s? I don\u2019t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We\u2019ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-        "speakers": [
-            1
-        ],
-        "language": "English",
-        "complexity": "Beginner",
-        "tags": [
-            "Cloud"
         ]
     },
     "101": {
