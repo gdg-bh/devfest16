@@ -3,37 +3,26 @@
         "id": 1,
         "featured": true,
         "name": "Loiane Groner",
-        "title": "Developer Advocate",
+        "title": "Instrutor",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "London, United Kingdom",
         "photoUrl": "/images/people/loiane_groner.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "shortBio": "Possui 10+ anos de experiência em TI e ama compartilhar conhecimento! Já palestrou por vários eventos no Brasil e ministrou cursos nos Estados Unidos...",
+        "bio": "Possui 10+ anos de experiência em TI e ama compartilhar conhecimento! Já palestrou por vários eventos no Brasil e ministrou cursos nos Estados Unidos. Autora dos livros: Ext JS 4 First Look, Mastering Ext JS (primeira e segunda edição), Sencha Architect App Development e Learning JavaScript Data Structures and Algorithms (primeira e segunda edição), JavaScript Regular Expressions - todos publicados pela editora Packt e lançados mundialmente em inglês (com tradução dos livros para chinês e coreano). Espera poder lançar livros em Português em breve. Entusiasta Java, JavaScript e mobile híbrido (Phonegap/Ionic). Participa ativamente dessas comunidades.Escreve para o blog http://loiane.com e publica aulas e cursos em http://loiane.training.",
         "tags": [
-            "Cloud",
-            "Compute Engine",
-            "gRPC"
+            "Web",
+            "Ionic",
+            "Angular"
         ],
         "badges": [
 
         ],
         "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
-            }
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://www.loiane.com/"
+          }
         ]
     },
     "3": {
@@ -375,139 +364,16 @@
             }
         ]
     },
-    "12": {
-        "id": 12,
-        "featured": false,
-        "name": "Caal 4 Paperz",
-        "title": "CTO",
-        "company": "Pixplicity",
-        "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Amsterdam, The Netherlands",
-        "photoUrl": "/images/people/paul_lammertsma.jpg",
-        "shortBio": "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-b...",
-        "bio": "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-building company. He applies his knowledge of Java, Android and Linux in Pixplicity to develop high-quality apps and provide technical solutions for customers such as Mercedes-Benz, Nestl\u00e9, De Telegraaf, AGIS and De Consumentenbond.",
-        "tags": [
-            "Android",
-            "Data Sync",
-            "Linux"
-        ],
-        "badges": [
-            {
-                "name": "DAUG",
-                "description": "DAUG",
-                "link": "https://developers.google.com/groups/chapter/113182948271879290904/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/u/0/+PaulLammertsma"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/officesunshine"
-            }
-        ]
-    },
-    "13": {
-        "id": 13,
-        "featured": false,
-        "name": "Call 4 Paperz",
-        "title": "Code Monkey",
-        "company": "Applause",
-        "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Warsaw, Poland",
-        "photoUrl": "/images/people/aleksander_piotrowski.jpg",
-        "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
-        "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-        "tags": [
-            "Android",
-            "Android N"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/pelotasplus"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "http://facebook.com/pelotasplus"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/pelotasplus"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://www.instagram.com/pelotasplus/"
-            }
-        ]
-    },
-    "15": {
-        "id": 15,
-        "featured": true,
-        "name": "Sergii Khomenko",
-        "title": "Data Scientist",
-        "company": "Stylight",
-        "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Munich, Germany",
-        "photoUrl": "/images/people/sergii_khomenko.jpg",
-        "shortBio": "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisati...",
-        "bio": "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
-        "tags": [
-            "Cloud",
-            "Big Data",
-            "Analytics"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/lc0d3r"
-            }
-        ]
-    },
     "17": {
         "id": 17,
         "featured": false,
-        "name": "Jana Moudra",
+        "name": "Call 4 Paperz",
         "title": "Co-Founder",
         "company": "Juicymo",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jana_moudra.jpg",
-        "shortBio": "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
-        "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons \u2013 covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
-        "tags": [
-            "Android",
-            "Testing",
-            "UiAutomator",
-            "Dart"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Dart Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/jana-moudr.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Prague",
-                "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-            }
-        ],
+        "photoUrl": "/images/logos/gdg-bh.svg",
+        "shortBio": "A DEFINIR...",
+        "bio": "A DEFINIR...",
         "socials": [
             {
                 "icon": "gplus",
@@ -534,14 +400,13 @@
     "22": {
         "id": 22,
         "featured": false,
-        "name": "Ihor Dvoretskyi",
+        "name": "Call 4 Paperz",
         "title": "Deployment Engineer",
         "company": "Mirantis",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Lviv, Ukraine",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "shortBio": "OpenStack Foundation member, Kubernetes upstream contributor and OpenStack special interest group lead in Kubernetes Community.",
-        "bio": "Ihor is an Operations Engineer at Mirantis with a huge experience working in IT companies, where he was responsible for projects tightly bound to Cloud computing and Linux systems. He is deeply interested in the OpenStack cloud platform, other Cloud technologies, especially the Open Source projects.<br><br>Also, Ihor acts as the OpenStack Foundation member, Kubernetes upstream contributor, and OpenStack special interest group lead in Kubernetes Community, working intensely on the questions and abilities, related to the OpenStack and Kubernetes collaboration and integration.",
+        "photoUrl": "/images/logos/gdg-bh.svg",
+        "shortBio": "A DEFINIR...",
+        "bio": "A DEFINIR...",
         "tags": [
             "Cloud",
             "OpenStack",

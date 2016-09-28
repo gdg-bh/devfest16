@@ -446,15 +446,15 @@
     },
     "101": {
         "id": 101,
-        "title": "Windows and .NET on Google Cloud Platform ",
-        "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+        "title": "Aplicativos Híbridos com Ionic 2",
+        "description": "Ionic 2 é um framework open source para desenvolvimento de aplicativos mobile híbrido, onde se pode desenvolver o aplicativo usando HTML/CSS e JavaScript, fazer acesso nativo usando essas tecnologias e compilar o app para diferentes plataformas como iOS, Android e Windows Phone e publicá-lo nas respectivas app stores. O Ionic 2 é baseado em frameworks também open source e populares no mercado: Phonegap/Cordova, Angular2 e Sass (CSS). Vamos aprender como criar tipos de apps populares nas lojas usando conceitos do Angular 2 (Components, Templates, Pipes, Diretivas, Serviços + RxJS Observables) integrando-os com o CSS e componentes visuais do Ionic.",
         "speakers": [
             1
         ],
-        "language": "English",
+        "language": "Portuguese",
         "complexity": "Beginner",
         "tags": [
-            "Cloud"
+            "Ionic 2"
         ]
     }
 }
