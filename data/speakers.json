@@ -143,27 +143,36 @@
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Adrian Kajda",
-        "title": "Product Manager/Developer",
-        "company": "Sygic",
+        "name": "Luís Leão",
+        "title": "Course Manager",
+        "company": "Udacity",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Opole, Poland",
-        "photoUrl": "/images/people/adrian_kajda.jpg",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "photoUrl": "/images/people/luis_leao.jpg",
+        "shortBio": "Course Manager na Udacity, co-organiza o Google Developer Group de São Paulo e atua em diversas áreas voltadas para empreendedorismo e inovação...",
+        "bio": "Course Manager na Udacity, co-organiza o Google Developer Group de São Paulo e atua em diversas áreas voltadas para empreendedorismo e inovação, entre eles é responsável por um grupo de estudo de Internet das Coisas (IoT) no RedBull Station e pelo programa Startup in School, projeto de formação empreendedora e programação para estudantes de escolas públicas.",
         "tags": [
-            "Android",
-            "Entrepreneurship"
+            "IoT",
+            "Firebase"
         ],
         "badges": [
+          {
+              "name": "GDG",
+              "description": "Google Developers Group",
+              "link": "https://developers.google.com/groups/directory/"
+          }
 
         ],
         "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "plus.google.com/+AdrianKajda"
-            }
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "http://www.linkedin.com/in/luisleao"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/luisleao"
+          }
         ]
     },
     "6": {
