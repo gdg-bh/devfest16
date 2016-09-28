@@ -59,11 +59,13 @@
       }
 
       paper-icon-item iron-icon {
-        --iron-icon-fill-color: var(--default-primary-color);
+        --iron-icon-fill-color: #3c5b79;
       }
 
-      .card .bottom-link {
-        color: var(--secondary-text-color);
+      .icons-text {
+        color: #4d4d4d;
+        font-weight: lighter;
+        font-size: 14px;
       }
 
       .header {
@@ -88,8 +90,19 @@
         color: #fff;
       }
 
-      .additional-space {
-        display: none;
+      .details {
+        margin: 0 auto 30px;
+        font-size: 16px;
+        font-weight: lighter;
+        max-width: 600px;
+      }
+
+      .content, .content .markdown-html {
+        color: #fff;
+        margin-right: 30px;
+        text-align: justify;
+        text-justify: inter-word;
+        font-weight: normal;
       }
 
       @media (min-width: 601px) {
@@ -97,17 +110,18 @@
           min-width: 400px;
         }
       }
-
-      @media (min-width: 961px) {
-        .additional-space {
-          @apply(--layout);
-          @apply(--layout-flex);
-        }
-      }
     </style>
 
     <div class="container">
-      <div class="additional-space"></div>
+      <div class="content">
+        <h4 class="heading">[[localize('location-header')]]</h4>
+        <marked-element markdown="[[localize('location-text')]]">
+          <div class="markdown-html"></div>
+        </marked-element>
+        <marked-element markdown="[[localize('location-links')]]">
+          <div class="markdown-html"></div>
+        </marked-element>
+      </div>
       <div class="card-wrapper">
         <paper-card class="card">
           <div class="header paper-card">
@@ -118,13 +132,13 @@
             <div class="card-content list">
               <paper-icon-item disabled>
                 <iron-icon icon="icons:feedback" item-icon></iron-icon>
-                <paper-item-body>[[localize('location-description')]]</paper-item-body>
+                <paper-item-body class="icons-text">[[localize('location-description')]]</paper-item-body>
               </paper-icon-item>
               <paper-icon-item disabled>
                 <iron-icon icon="icons:location" item-icon></iron-icon>
                 <paper-item-body two-line>
-                  <div>[[localize('location-address')]]</div>
-                  <div secondary>[[localize('location-address-short')]]</div>
+                  <div class="icons-text">[[localize('location-address')]]</div>
+                  <div class="icons-text">[[localize('location-address-short')]]</div>
                 </paper-item-body>
               </paper-icon-item>
             </div>
