@@ -147,41 +147,21 @@
         "id": 7,
         "featured": true,
         "name": "Felipe Arimatéia",
-        "title": "Developer Relations Program Manager",
-        "company": "Google",
+        "title": "Developer Mobile",
+        "company": "Ci&T",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Prague, Czech Republic",
         "photoUrl": "/images/people/felipe_arimateia.png",
-        "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-        "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
+        "shortBio": "Developer Mobile na CI&T e professor, já trabalhou em apps famosos como Buscapé, Rádio Skol, Oi FM...",
+        "bio": "Developer Mobile na CI&T e professor, já trabalhou em apps famosos como Buscapé, Rádio Skol, Oi FM, e mais alguns outros. É apaixonado por series, código e em ser pai, além de organizar o Android Meetup BH. ",
         "tags": [
-            "Cloud",
+            "Android",
             "Firebase"
         ],
         "badges": [
 
         ],
         "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jozefvodicka"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/jozefvodicka"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JozefVodicka"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jozef.vodicka"
-            }
+
         ]
     },
     "8": {

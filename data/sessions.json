@@ -342,15 +342,16 @@
     },
     "109": {
         "id": 109,
-        "title": "How much money Firebase can save you",
-        "description": "TBD",
+        "title": "Firebase: Dando um Up na sua aplicação",
+        "description": "Ei developer! Você está cansado de usar diferentes ferramentas para engajar seus usuários, gerar dados para analytics, enviar notificações e elas não são integradas. Então venha conhecer o Firebase e aprender como da um up nas suas aplicações.",
         "speakers": [
             7
         ],
-        "language": "English",
+        "language": "Portuguese",
         "complexity": "Beginner",
         "tags": [
-            "Cloud"
+            "Android",
+            "Firebase"
         ]
     },
     "108": {
@@ -381,15 +382,16 @@
     },
     "106": {
         "id": 106,
-        "title": "Fuelio. Success story",
-        "description": "Fuelio. Success story (I'll write more info later)",
+        "title": "Internet dos Trem e como não colocar fogo em casa",
+        "description": "Mineirices a parte, internet das coisas, além de ser a buzzword mais conhecida depois de Ajax, traz uma série de considerações, principalmente da comunidade maker. Será possível, através dela coletar dados, prever e até mesmo automatizar e montar a interação do homem com a máquina, criando novas interfaces e detectando automaticamente situações baseadas no comportamento humano irão moldar as próximas tecnologias. Por isso, vamos fazer uma abordagem prática de uma das tecnologias relacionadas a assistentes pessoais como o Amazon Echo (e especular sobre o futuro lançamento do Google Home), para criarmos um dispositivo que possa ser controlado por ele utilizando hacks que já existem. Ah, e como não colocar fogo em casa? Nesse tópico, abordaremos o que você pode fazer utilizando alguns devices que já existem e criando novos que integrem com equipamentos antigos e como deixá-los conectados através da web utilizando Firebase.",
         "speakers": [
             5
         ],
         "language": "English",
-        "complexity": "Beginner",
+        "complexity": "Portuguese",
         "tags": [
-            "Android"
+            "Iot",
+            "Firebase"
         ]
     },
     "105": {
