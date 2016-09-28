@@ -81,37 +81,35 @@
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Sascha Wolter",
+        "name": "Felipe Nascimento",
         "title": "Senior Developer Evangelist Connected Home",
-        "company": "Duetsche Telekom AG - Group Innovation+",
+        "company": "Nasc",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "country": "Munich and Dusseldorf, Germany",
-        "photoUrl": "/images/people/sascha_wolter.jpg",
-        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "photoUrl": "/images/people/felipe_nascimento.jpg",
+        "shortBio": "Felipe trabalha com desenvolvimento Web há mais de 12 anos, palestrante, fundador da BrazilJS Conference...",
+        "bio": "Felipe trabalha com desenvolvimento Web há mais de 12 anos, palestrante, professor e fundador da BrazilJS Conference, entre outros eventos e também projetos Open Source, hoje, é também founder da Nasc.",
         "tags": [
             "Web",
-            "IoT",
-            "Smart Home"
+            "JS"
         ],
         "badges": [
+          {
+              "name": "GDE",
+              "description": "Web Technologies",
+              "link": "https://developers.google.com/experts/people/felipe-moura"
+          }
 
         ],
         "socials": [
             {
                 "icon": "website",
                 "name": "Website",
-                "link": "http://www.wolter.biz"
+                "link": "http://felipenmoura.com/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/saschawolter"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+                "link": "https://twitter.com/felipenmoura"
             }
         ]
     },
