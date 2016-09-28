@@ -17,7 +17,8 @@
     <style include="shared-styles">
       :host {
         display: block;
-        background: #fff;
+        background: #3a3b3b;
+        color: #fff;
       }
 
       .container {
@@ -40,34 +41,46 @@
 
       .photo {
         @apply(--img-circle);
-        height: 70px;
-        width: 70px;
+        height: 200px;
+        width: 200px;
+        border: 5px solid #9d9d9d;
+        filter: grayscale(8);
       }
 
       .name {
-        margin-top: 5px;
+        margin: 20px;
         padding: 0 16px;
         line-height: .9;
+        color: #ffec48;
+        text-transform: uppercase;
+        font-weight: normal;
       }
 
       .company {
         padding: 0 16px;
         display: block;
-        font-size: .7em;
-        line-height: 1.8;
+        font-size: 0.9em;
+        font-weight: normal;
+        color: #fff;
       }
 
       .block-link {
-        margin-top: 25px;
+        margin: 40px 0 40px 0;
         display: block;
         color: inherit;
         font-size: .9em;
       }
 
-      .company-logo {
-        margin: 5px auto;
-        width: 80px;
-        height: 20px;
+      paper-button {
+        padding: 15px;
+        border: 3px solid #fff;
+        border-radius: 0;
+        font-weight: bold;
+      }
+
+      .cta {
+        color: #757575;
+        font-size: 16px;
       }
 
       @media (max-width: 600px) {
@@ -79,8 +92,8 @@
 
       @media (min-width: 601px) {
         .photo {
-          height: 120px;
-          width: 120px;
+          height: 200px;
+          width: 200px;
         }
 
         .person {
@@ -98,6 +111,7 @@
               class="photo"
               src="[[person.photoUrl]]"
               sizing="cover"
+              style="filter: grayscale(1); -webkit-filter: grayscale(1);"
             ></iron-image>
             <h4 class="name">[[person.name]]</h4>
             <span class="company">[[person.title]]</span>
@@ -110,7 +124,9 @@
         </a>
       </div>
       <div>
-        <span class="name">[[localize('featured-people-cta')]]</span>
+        <marked-element markdown="[[localize('featured-people-cta')]]">
+          <div class="markdown-html cta"></div>
+        </marked-element>
       </div>
     </div>
 
