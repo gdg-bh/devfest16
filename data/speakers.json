@@ -3,7 +3,7 @@
         "id": 1,
         "featured": true,
         "name": "Loiane Groner",
-        "title": "Instrutor",
+        "title": "Instructor",
         "company": "Loiane Groner",
         "companyLogo": "/images/logos/gdg-bh.svg",
         "photoUrl": "/images/people/loiane_groner.jpg",
@@ -117,7 +117,7 @@
     },
     "6": {
         "id": 6,
-        "featured": true,
+        "featured": false,
         "name": "Maria Clara Santana",
         "title": "Software Developer",
         "company": "Fleety",
@@ -159,7 +159,7 @@
     },
     "8": {
         "id": 8,
-        "featured": true,
+        "featured": false,
         "name": "Ana Paula Batista",
         "title": "Android Tech Lead",
         "company": "App Prova",
