@@ -212,16 +212,13 @@
     },
     "119": {
         "id": 119,
-        "title": "Hands-on with UI testing for Android developers",
-        "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
+        "title": "Remote Work: Less Stress, More Productivity",
+        "description": "Nesta palestra é apresentado o modelo de trabalho remoto e os modos que o mesmo é geralmente aplicado pelas empresas e também coloca em evidência riscos, preocupações, benefícios e responsabilidades que o profissional deve dar importância ao aderir este tipo de relacionamento com o empregador.",
         "speakers": [
             17
         ],
-        "language": "English",
-        "complexity": "Beginner",
-        "tags": [
-            "Android"
-        ]
+        "language": "Portuguese",
+        "complexity": "Beginner"
     },
     "118": {
         "id": 118,

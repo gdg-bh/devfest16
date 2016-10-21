@@ -241,13 +241,13 @@
     "17": {
         "id": 17,
         "featured": false,
-        "name": "Call 4 Paperz",
-        "title": "Call 4 Paperz",
-        "company": "Call 4 Paperz",
+        "name": "Beto Muniz",
+        "title": "Software Engineer",
+        "company": "TopTal",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "photoUrl": "/images/logos/gdg-bh.svg",
-        "shortBio": "A DEFINIR...",
-        "bio": "A DEFINIR...",
+        "photoUrl": "/images/people/beto_muniz.png",
+        "shortBio": "Software Engineer na Toptal, Beto Muniz é um apaixonado por tecnologia e comunidade que vive antenado...",
+        "bio": "Software Engineer na Toptal, Beto Muniz é um apaixonado por tecnologia e comunidade que vive antenado no que está acontecendo no mundo web e disposto a contribuir através de posts, eventos, palestras e projetos open-source.",
         "socials": [
 
         ]
