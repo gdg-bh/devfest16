@@ -326,15 +326,15 @@
     },
     "110": {
         "id": 110,
-        "title": "The ultimate guide to MVP pattern on Android",
-        "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
+        "title": "Pesquisa de Guerrilha: Entendendo seu usuário com agilidade e baixo custo.",
+        "description": "Pesquisa te dá direção ao invés de adivinhação, e dados ao invés de opinião ou especulação. E você sabia que pode ser mais rápido e barato do que o que você imagina? Vamos abordar algumas estratégias e cases para pesquisas com baixo custo, as Pesquisas de Guerrilha.",
         "speakers": [
             8
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "Portuguese",
+        "complexity": "Beginner",
         "tags": [
-            "Android"
+            "UX"
         ]
     },
     "109": {

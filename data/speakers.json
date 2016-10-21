@@ -161,17 +161,20 @@
         "id": 8,
         "featured": false,
         "name": "Ana Paula Batista",
-        "title": "Android Tech Lead",
         "company": "App Prova",
         "companyLogo": "/images/logos/gdg-bh.svg",
-        "photoUrl": "/images/logos/gdg-bh.svg",
-        "shortBio": "A DEFINIR...",
-        "bio": "A DEFINIR...",
+        "photoUrl": "/images/people/ana_paula_batista.jpg",
+        "shortBio": "UX designer com dezesseis anos de experiência em projetos para diferentes segmentos...",
+        "bio": "UX designer com dezesseis anos de experiência em projetos para diferentes segmentos. É especializada em estratégia de experiência do usuário, com foco na conversão em baixas custos em ambientes ágeis. Atualmente, Google Expert em UX / UI, Head de Produto no AppProva, Certified Design Sprint Master e local leader do IxDA-BH. Mora em Belo Horizonte, Brasil. Atua também mentora de startups e palestrante sobre temas como UX design e métodos de pesquisa do usuário.",
         "tags": [
             "Ux"
         ],
         "badges": [
-
+          {
+              "name": "GDE",
+              "description": "UX/UI Expert",
+              "link": "https://developers.google.com/experts/people/ana-paula-batista"
+          }
         ],
         "socials": [
 
