@@ -4,7 +4,6 @@
         "title": "Encerramento Official",
         "description": "Encerramento Official",
         "image": "/images/backgrounds/closing.jpg",
-        "language": "Portuguese",
         "tags": [
             "general"
         ]
@@ -13,7 +12,6 @@
         "id": 136,
         "title": "Abertura DevFestBH",
         "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-        "language": "Portuguese",
         "image": "/images/backgrounds/opening.jpg",
         "tags": [
             "general"
@@ -42,7 +40,6 @@
         "title": "Credenciamento e coffee-break",
         "description": "Hora de se registrar e também aquecer os motores para a grande festa",
         "image": "/images/backgrounds/registration.jpg",
-        "language": "Portuguese",
         "tags": [
             "general"
         ]
@@ -54,9 +51,18 @@
         "speakers": [
             18
         ],
-        "language": "Portuguese",
         "tags": [
-            "libraries"
+            "Libraries"
+        ]
+    },
+    "130": {
+        "id": 130,
+        "title": "Call 4 Paperz",
+        "description": "A DEFINIR",
+        "speakers": [
+            22
+        ],
+        "tags": [
         ]
     },
     "129": {
@@ -66,7 +72,6 @@
         "speakers": [
             22
         ],
-        "language": "Portuguese",
         "tags": [
         ]
     },
@@ -77,9 +82,8 @@
         "speakers": [
             17
         ],
-        "language": "Portuguese",
         "tags": [
-            "entrepreneurship"
+            "Empreendedorismo"
         ]
     },
     "127": {
@@ -89,9 +93,8 @@
         "speakers": [
             16
         ],
-        "language": "Portuguese",
         "tags": [
-            "libraries"
+            "Libraries"
         ]
     },
     "126": {
@@ -101,9 +104,8 @@
         "speakers": [
             15
         ],
-        "language": "Portuguese",
         "tags": [
-            "libraries"
+            "Libraries"
         ]
     },
     "125": {
@@ -113,7 +115,6 @@
         "speakers": [
             14
         ],
-        "language": "Portuguese",
         "tags": [
             "Android"
         ]
@@ -125,9 +126,8 @@
         "speakers": [
             13
         ],
-        "language": "Portuguese",
         "tags": [
-            "entrepreneurship"
+            "Empreendedorismo"
         ]
     },
     "118": {
@@ -137,9 +137,19 @@
         "speakers": [
           12
         ],
-        "language": "Portuguese",
         "tags": [
             "Android"
+        ]
+    },
+    "113": {
+        "id": 113,
+        "title": "Hotmart - A DEFINIR",
+        "description": "A DEFINIR",
+        "speakers": [
+            22
+        ],
+        "tags": [
+            "Empreendedorismo"
         ]
     },
     "112": {
@@ -149,9 +159,8 @@
         "speakers": [
             9
         ],
-        "language": "Portuguese",
         "tags": [
-            "entrepreneurship"
+            "Empreendedorismo"
         ]
     },
     "111": {
@@ -161,11 +170,9 @@
         "speakers": [
             8
         ],
-        "language": "Portuguese",
-        "complexity": "beginning",
         "tags": [
-            "wear",
-            "firebase"
+            "Android Wear",
+            "Firebase"
         ]
     },
     "110": {
@@ -175,9 +182,8 @@
         "speakers": [
             2
         ],
-        "language": "Portuguese",
         "tags": [
-            "ux"
+            "UX"
         ]
     },
     "109": {
@@ -187,7 +193,6 @@
         "speakers": [
             7
         ],
-        "language": "Portuguese",
         "tags": [
             "Android",
             "Firebase"
@@ -203,7 +208,7 @@
         ],
         "language": "Portuguese",
         "tags": [
-            "community"
+            "Comunidade"
         ]
     },
     "107": {
@@ -213,9 +218,8 @@
         "speakers": [
             6
         ],
-        "language": "Portuguese",
         "tags": [
-            "machine-learning"
+            "Machine Learning"
         ]
     },
     "106": {
@@ -225,9 +229,8 @@
         "speakers": [
             5
         ],
-        "language": "Portuguese",
         "tags": [
-            "iot",
+            "Iot",
             "Firebase"
         ]
     },
@@ -238,10 +241,9 @@
         "speakers": [
             4
         ],
-        "language": "Portuguese",
         "tags": [
-            "wtm",
-            "community"
+            "WTM",
+            "Comunidade"
         ]
     },
     "104": {
@@ -251,10 +253,9 @@
         "speakers": [
             3
         ],
-        "language": "Portuguese",
         "tags": [
             "Web",
-            "progressive-web-apps",
+            "Progressive Web Apps",
             "JS"
         ]
     },
@@ -265,10 +266,9 @@
         "speakers": [
             1
         ],
-        "language": "Portuguese",
         "tags": [
-            "ionic",
-            "angular-js"
+            "Ionic",
+            "Angular JS"
         ]
     }
 }
