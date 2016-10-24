@@ -49,7 +49,7 @@
         "title": "Anti-patterns & premature optimization",
         "description": "Quem nunca pensou na performance daquele microservice antes mesmo de pensar em sua arquitetura, que atire a primeira pedra! Nessa palestra discutiremos os mals hábitos de se pensar em otimização de forma prematura, e descobriremos que software que aumentar receita > software que reduz custos.",
         "speakers": [
-            18
+            15
         ],
         "tags": [
             "Libraries"
@@ -57,20 +57,20 @@
     },
     "130": {
         "id": 130,
-        "title": "Call 4 Paperz",
-        "description": "A DEFINIR",
+        "title": "AMA - Converse com os Artistas",
+        "description": "Momento onde você poderá interagir com os palestrantes, tirar dúvidas e fazer networking",
         "speakers": [
-            22
+            
         ],
         "tags": [
         ]
     },
     "129": {
         "id": 129,
-        "title": "Call 4 Paperz",
-        "description": "A DEFINIR",
+        "title": "AMA - Converse com os Artistas",
+        "description": "Momento onde você poderá interagir com os palestrantes, tirar dúvidas e fazer networking",
         "speakers": [
-            22
+
         ],
         "tags": [
         ]
@@ -80,7 +80,7 @@
         "title": "CEO de startup!? Oi?",
         "description": "Priscila Gama, mulher, negra, não entendedora (ainda) de programação, fala um pouco sobre como o fato de ser exatamente quem é, a levou a co-fundar a Malalai, startup de segurança pessoal feminina. Ela irá compartilhar o que aprendeu até aqui sobre esta recém descoberta.",
         "speakers": [
-            17
+            18
         ],
         "tags": [
             "Empreendedorismo"
@@ -102,7 +102,7 @@
         "title": "Metodologias CSS",
         "description": "Já pegou códigos CSS imensos e com várias regras repetidas? Pois então, há maneiras de produzir seu CSS de maneira eficiente e eu falarei um pouco sobre as metodologias CSS e seus aliados para melhorar a performance no seu código CSS.",
         "speakers": [
-            15
+            17
         ],
         "tags": [
             "Libraries"
